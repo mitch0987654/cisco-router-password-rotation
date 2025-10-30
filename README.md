@@ -1,5 +1,5 @@
 # cisco-router-password-rotation
-Contains the execution script and a verification script written with python. These scripts interact with the password vault, Keeper to rotate local user passwords and keep them updated. 
+Contains the execution script and a verification script. These scripts interact with the password vault, Keeper, to rotate local user passwords and keep them updated. 
 
 
 **For isolation ive run this in a python virtual environment
